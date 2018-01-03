@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name          = "WhdeLame"
-s.version       = "3.100"
+s.version       = "3.10"
 s.summary       = "最新的Lame生成Framework. 音频转换, Mp3"
 s.homepage      = "https://github.com/whde/LameFrameworksh"
 s.license       = 'MIT'
