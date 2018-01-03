@@ -7,7 +7,7 @@ s.license       = 'MIT'
 s.author        = { "Whde" => "460290973@qq.com" }
 s.platform      = :ios, "8.0"
 s.source        = { :git => "https://github.com/whde/LameFrameworksh.git", :tag => s.version.to_s }
-s.source_files  = 'LameFrameworksh/lame.framework'
+s.source_files  = 'LameFrameworksh/*.framework'
 s.frameworks    = 'Foundation', 'CoreGraphics', 'UIKit'
 s.requires_arc  = true
 s.description   = <<-DESC
